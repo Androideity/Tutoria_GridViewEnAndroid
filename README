@@ -1,0 +1,7 @@
+Proyecto que muestra el uso básico del componente GridView en Android.
+
+- Declaración de un GridView en XML y propiedades básicas.
+- Creación de un adaptador para mostrar imágenes.
+- Asignación de un adaptador propio a un GridView.
+
+Ver tutorial: http://androideity.com/2011/08/28/controles-de-seleccion-en-android-gridview/
